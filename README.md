@@ -1,2 +1,3 @@
-# Options-Visualizations-
-Visualizations of stock options strategies 
+# OptionsViz
+
+Visualizations of popular stock options strategies. Feel free to contribute any missing or new strategies. 
